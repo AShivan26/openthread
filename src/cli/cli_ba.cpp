@@ -32,7 +32,7 @@
  */
 
 #include "cli_ba.hpp"
-
+//test
 #if OPENTHREAD_CONFIG_BORDER_AGENT_ENABLE
 
 #include <string.h>
